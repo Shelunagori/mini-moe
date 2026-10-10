@@ -1,0 +1,12 @@
+# Data (catalog images, test photos, labels)
+data/
+
+# Environment
+.venv/
+
+# Python
+__pycache__/
+
+# Generated artifacts
+*.npy
+*.faiss
